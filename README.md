@@ -1,4 +1,14 @@
-# 💻 Experience:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IDKFORCE" alt="IDKFORCE" /> </p>
+
+ <div align="left">
+  <p><a href="https://discord.gg/t3p8RvqZcf">
+      <img src="https://img.shields.io/discord/869166393470357535?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+  </a></p>
+</div>
+
+- [Discord](https://discord.gg/t3p8RvqZcf)
+-
+- # 💻 Experience:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
