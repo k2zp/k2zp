@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6500&color=FFFFFF&lines=Hello+there!)](https://git.io/typing-svg)
+
 # 💫 Discord:
 
 <div align="left">
