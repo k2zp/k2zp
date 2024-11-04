@@ -1,8 +1,8 @@
-# 💻 Discord:
+# 💫 Discord:
 
 <div align="left">
   <p><a href="https://discord.gg/t3p8RvqZcf">
-      <img src="https://img.shields.io/discord/869166393470357535?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+      <img src="https://img.shields.io/discord/775285040170532885?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
   </a></p>
 </div>
 
