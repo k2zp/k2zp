@@ -1,5 +1,7 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6500&color=FFFFFF&lines=Hello+I'm+Bo Nora)](https://git.io/typing-svg)</h1>
-
+<h1 align="center">
+ 
+</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&duration=6500&color=FFFFFF&lines=Hello+I%27m+Bo%20Nora)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6500&color=FFFFFF&lines=Hello+World!)](https://git.io/typing-svg)
 
