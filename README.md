@@ -1,6 +1,9 @@
+<h1 align="center">Hi 👋, I'm Bo Nora</h1>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6500&color=FFFFFF&lines=Hello+World!)](https://git.io/typing-svg)
 
-# 💫 Discord:
+# 💫 Discord
 
 <div align="left">
   <p><a href="https://discord.gg/t3p8RvqZcf">
@@ -10,7 +13,7 @@
 
 <!-- - [Discord](https://discord.gg/t3p8RvqZcf)-->
 
-# 💻 Experience:
+# 💻 Experience
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
