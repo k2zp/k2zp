@@ -1,9 +1,5 @@
-<h1 align="center">
- 
-</h1>
+<h1 align="center">Hi 👋, I'm Bo Nora</h1>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&duration=6500&color=FFFFFF&lines=Hello+I%27m+Bo%20Nora)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6500&color=FFFFFF&lines=Hello+World!)](https://git.io/typing-svg)
 
@@ -15,7 +11,6 @@
   </a></p>
 </div>
 
-<!-- - [Discord](https://discord.gg/t3p8RvqZcf)-->
 
 # 💻 Experience
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,3 +28,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+<!-- All Rights Reserved to BONORA -->
