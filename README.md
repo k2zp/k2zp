@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bo Nora</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6500&color=FFFFFF&lines=Hello+I'm+Bo Nora)](https://git.io/typing-svg)</h1>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6500&color=FFFFFF&lines=Hello+World!)](https://git.io/typing-svg)
