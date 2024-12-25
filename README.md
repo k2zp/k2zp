@@ -6,7 +6,7 @@
 # 💫 Discord
 
 <div align="left">
-  <p><a href="[https://discord.gg/t3p8RvqZcf](https://discord.gg/H2BU8BMmqg)">
+  <p><a href="https://discord.gg/H2BU8BMmqg">
       <img src="https://img.shields.io/discord/1116400444990820412?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
   </a></p>
 </div>
