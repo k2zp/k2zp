@@ -10,7 +10,7 @@
 
 ## 🌟 Connect on Discord
 <p align="left">
-  <a href="https://discord.gg/H2BU8BMmqg">
+  <a href="https://discord.gg/CJY5XqTae9">
     <img src="https://img.shields.io/discord/1116400444990820412?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Join+My+Community"/>
   </a>
 </p>
@@ -49,7 +49,7 @@
 
 ## 🌐 Social Media
 <p>
-  <a href="https://discord.gg/H2BU8BMmqg">
+  <a href="https://discord.gg/CJY5XqTae9">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <!-- Add more social links as necessary -->
