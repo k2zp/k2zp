@@ -16,10 +16,10 @@
 ---
 
 ## 📖 About Me
-- 🎓 I’m passionate about learning and applying new technologies.
-- 💡 I specialize in full-stack development, automation, and debugging complex systems.
+- 🎓 Passionate about learning and applying new technologies.
+- 💡 Specializing in full-stack development, automation, and debugging complex systems.
 - 🛠️ Currently working on enhancing user experiences with cutting-edge tools and frameworks.
-- 
+
 ---
 
 ## 💻 Tech Expertise
