@@ -47,16 +47,6 @@
 
 ---
 
-## 🌐 Social Media
-<p>
-  <a href="https://discord.gg/CJY5XqTae9">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <!-- Add more social links as necessary -->
-</p>
-
----
-
 <p align="center">
   <em>All Rights Reserved to Bo Nora.</em>
 </p>
