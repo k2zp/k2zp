@@ -17,6 +17,13 @@
 
 ---
 
+## 📖 About Me
+- 🎓 I’m passionate about learning and applying new technologies.
+- 💡 I specialize in full-stack development, automation, and debugging complex systems.
+- 🛠️ Currently working on enhancing user experiences with cutting-edge tools and frameworks.
+- 
+---
+
 ## 💻 Tech Expertise
 
 ### Languages & Frameworks
@@ -37,13 +44,6 @@
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
 </div>
-
----
-
-## 📖 About Me
-- 🎓 I’m passionate about learning and applying new technologies.
-- 💡 I specialize in full-stack development, automation, and debugging complex systems.
-- 🛠️ Currently working on enhancing user experiences with cutting-edge tools and frameworks.
 
 ---
 
