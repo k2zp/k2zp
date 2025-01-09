@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bo Nora</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=5000&color=ffffff&center=true&vCenter=true&lines=Welcome+to+My+Profile!;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=5000&color=ffffff&center=true&vCenter=true&lines=Hi+👋,+I'm+Bo+Nora;Welcome+to+My+Profile!;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing Animation">
   </a>
 </p>
 
