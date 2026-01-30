@@ -1,13 +1,8 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=5000&color=ffffff&center=true&vCenter=true&lines=Hi,+I'm+Bo+Nora;Welcome+to+My+Profile!;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing Animation">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7289DA&center=true&vCenter=true&width=500&lines=Hi,+I'm+Bo+Nora+👋;Full-Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing Animation" />
 </p>
 
----
-
-## 🌟 Connect on Discord
-<p align="left">
+<p align="center">
   <a href="https://discord.gg/CJY5XqTae9">
     <img src="https://img.shields.io/discord/1116400444990820412?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Join+My+Community"/>
   </a>
@@ -15,36 +10,51 @@
 
 ---
 
-## 📖 About Me
-- 🎓 Passionate about learning and applying new technologies.
-- 💡 Specializing in full-stack development, automation, and debugging complex systems.
-- 🛠️ Currently working on enhancing user experiences with cutting-edge tools and frameworks.
+## ⚡ Quick Start
+- 🎓 **Focusing on:** Advanced Full-Stack Architectures & Cloud Integration.
+- 💡 **Passion:** Solving complex bugs and automating the boring stuff.
+- 🛠️ **Current Mission:** Building seamless user experiences with modern frameworks.
+- 💬 **Ask me about:** JavaScript, C#, or why Discord bots are awesome.
 
 ---
 
-## 💻 Tech Expertise
+## 📊 GitHub Analytics
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-### Languages & Frameworks
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-</div>
+---
+
+## 💻 Tech Toolbox
+
+### 🌐 Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### ⚙️ Backend & Systems
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### 💾 Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
 <p align="center">
-  <em>All Rights Reserved to Bo Nora.</em>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&label=Profile%20Views&color=7289da&style=flat-square" alt="Views" />
+</p>
+
+<p align="center">
+  <em>© 2026 Bo Nora • Stay Curious</em>
 </p>
