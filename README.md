@@ -20,8 +20,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoNora&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoNora&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
