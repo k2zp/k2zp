@@ -15,6 +15,14 @@
 - 💡 **Passion:** Solving complex bugs and automating the boring stuff.
 - 🛠️ **Current Mission:** Building seamless user experiences with modern frameworks.
 - 💬 **Ask me about:** JavaScript, C#, or why Discord bots are awesome.
+  
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoNora&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoNora&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
@@ -44,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&label=Profile%20Views&color=7289da&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=BoNora&label=Profile%20Views&color=7289da&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
