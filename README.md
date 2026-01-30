@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7289DA&center=true&vCenter=true&width=500&lines=Hi,+I'm+Bo+Nora+👋;Full-Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7289DA&center=true&vCenter=true&width=500&lines=Hi,+I'm+Bo+Nora+👋;Full-Stack+Developer;Tech+Enthusiast;" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -43,9 +43,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BoNora&label=Profile%20Views&color=7289da&style=flat-square" alt="Views" />
-</p>
+</p> -->
 
 <p align="center">
   <em>© 2026 Bo Nora • Stay Curious</em>
