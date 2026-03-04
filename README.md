@@ -2,14 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7289DA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;" alt="Typing Animation" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://discord.gg/bQ3gwhPzXg">
     <img src="https://img.shields.io/discord/1116400444990820412?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Join+My+Community"/>
   </a>
-</p>
+</p> -->
 
-<a href="https://discord.com/users/498094279793704991/">
-  <img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png"></a> <a href="https://discord.gg/5dUb7M2qCj">
+<!-- <a href="https://discord.com/users/570669841011441672/">
+  <img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png">
+</a>  -->
+<a href="[https://discord.gg/5dUb7M2qCj](https://discord.gg/bQ3gwhPzXg)">
   <img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2">
 </a>
 ---
