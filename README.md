@@ -58,4 +58,6 @@
 
 ---
 
-<p align="center"> <em>© 2026 Bo Nora • Stay Curious</em> </p>
+<p align="center">
+  <sub>© 2026 Bo Nora • Built with passion • Stay curious</sub>
+</p>
