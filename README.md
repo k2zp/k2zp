@@ -1,5 +1,9 @@
+<!-- ============================== -->
+<!--           HEADER               -->
+<!-- ============================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7289DA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+Enthusiast;Automation+Builder" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -8,46 +12,62 @@
   </a>
 </p>
 
----
-
-## ⚡ Quick Start
-- 🎓 **Focusing on:** Advanced Full-Stack Architectures & Cloud Integration.
-- 💡 **Passion:** Solving complex bugs and automating the boring stuff.
-- 🛠️ **Current Mission:** Building seamless user experiences with modern frameworks.
-- 💬 **Ask me about:** JavaScript, C#, or why Discord bots are awesome.
-  
----
-
-## 💻 Tech Toolbox
-
-### 🌐 Frontend & UI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### ⚙️ Backend & Systems
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-### 💾 Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <b>Building scalable systems, clean architectures, and seamless user experiences.</b>
+</p>
 
 ---
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BoNora&label=Profile%20Views&color=7289da&style=flat-square" alt="Views" />
-</p> -->
+## 🚀 About Me
+
+- 🎯 Focused on **Advanced Full-Stack Architectures & Cloud Integration**
+- 🧠 Enjoy solving complex bugs and optimizing performance
+- ⚙️ Passionate about automation and developer productivity
+- 💬 Ask me about **JavaScript, C#, APIs, or Discord Bots**
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+</p>
+
+### 🗄 Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</p>
+
+---
+
+## 📈 What I Care About
+
+- Clean, maintainable architecture  
+- Performance & scalability  
+- Developer experience  
+- Automation-first mindset  
+
+---
 
 <p align="center">
-  <sub>© 2026 Bo Nora • Built with passion • Stay curious</sub>
+  <sub>© 2026 • Built with precision • Always learning</sub>
 </p>
