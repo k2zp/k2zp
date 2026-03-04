@@ -1,60 +1,69 @@
+<!-- HERO SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7289DA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+Enthusiast;Automation+Lover" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://discord.gg/bQ3gwhPzXg">
-    <img src="https://img.shields.io/discord/1116400444990820412?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Join+My+Community"/>
+    <img src="https://img.shields.io/badge/Join%20My%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p> -->
-
-<!-- <a href="https://discord.com/users/570669841011441672/">
-  <img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png">
-</a>  -->
-<a align="center" href="https://discord.gg/bQ3gwhPzXg">
-  <img src="https://discord.com/api/guilds/1116400444990820412/widget.png?style=banner2">
-</a>
-
----
-
-## ⚡ Quick Start
-- 🎓 **Focusing on:** Advanced Full-Stack Architectures & Cloud Integration.
-- 💡 **Passion:** Solving complex bugs and automating the boring stuff.
-- 🛠️ **Current Mission:** Building seamless user experiences with modern frameworks.
-- 💬 **Ask me about:** JavaScript, C#, or why Discord bots are awesome.
-  
----
-
-## 💻 Tech Toolbox
-
-### 🌐 Frontend & UI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### ⚙️ Backend & Systems
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-### 💾 Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BoNora&label=Profile%20Views&color=7289da&style=flat-square" alt="Views" />
-</p> -->
+</p>
 
 <p align="center">
-  <em>© 2026 Bo Nora • Stay Curious</em>
+  <a href="https://discord.gg/bQ3gwhPzXg">
+    <img src="https://discord.com/api/guilds/1116400444990820412/widget.png?style=banner2" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Currently diving deep into **Advanced Full-Stack Architectures & Cloud Systems**
+- 💡 I enjoy debugging complex systems and automating repetitive workflows
+- 🛠️ Building scalable, modern applications with clean UX
+- 💬 Let’s talk about **JavaScript, C#, TypeScript, APIs, or Discord bots**
+
+---
+
+## 🧰 Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,cs,cpp,lua" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,npm,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BoNora&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoNora&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Connect
+
+<p align="center">
+  <a href="https://discord.gg/bQ3gwhPzXg">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>© 2026 Bo Nora • Built with passion • Stay curious</sub>
 </p>
