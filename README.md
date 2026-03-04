@@ -8,7 +8,7 @@
   </a>
 </p>
 
-[![jiecord](https://us1.ajieblogs.eu.org/cdn/img/public/personal/867303900884893727.png)]([https://dsc.gg/ajidevserver](https://discord.gg/bQ3gwhPzXg)) <br />
+[![jiecord](https://us1.ajieblogs.eu.org/cdn/img/public/personal/570669841011441672.png)]([https://discord.gg/bQ3gwhPzXg](https://discord.gg/bQ3gwhPzXg)) <br />
 
 ---
 
