@@ -6,7 +6,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7289DA&center=true&vCenter=true&width=580&lines=Full-Stack+Developer;Systems+Architect;Automation+Enthusiast" alt="Typing Animation" />
 
-  <p><em>Building scalable systems, clean architectures, and seamless user experiences.</em></p>
+  <p><em>Engineering scalable systems, robust APIs, and resilient full-stack architectures.</em></p>
 
   <p>
     <a href="https://discord.gg/bQ3gwhPzXg">
@@ -19,13 +19,7 @@
 
 </div>
 
-
-## 🚀 About
-
-I architect and build software across the entire stack, with a deep focus on the underlying systems that power the interface. My engineering philosophy centers on clean, high-performance, and resilient code—bridging intuitive frontends with powerful backends, custom game servers, automation, and developer tooling.
-
-
-## 🛠️ Tech Stack & Tools
+---
 
 <h3 align="center">Languages, Frameworks & Tools</h3>
 <p align="center">
@@ -37,11 +31,17 @@ I architect and build software across the entire stack, with a deep focus on the
 
 ---
 
+## 🚀 About
+
+I architect and build software across the entire stack, with a deep focus on the underlying systems that power the interface. My engineering philosophy centers on clean, high-performance, and resilient code—bridging intuitive frontends with powerful backends, custom game servers, automation, and developer tooling.
+
+---
+
 ## 📂 Featured Projects
 
 - **[Rift Project](https://github.com/k2zp)**
   - Comprehensive Fortnite private server ecosystem featuring a custom backend, frontend web dashboard, dedicated game launcher, game server instance management, and website.
-  - *Stack:* C# · C++ · Node.js · React.js
+  - *Stack:* C# · Node.js · React · PHP · C++
 
 - **[Discord NukeBot](https://nukebot.site)**
   - Custom community management bots and automated event-handling APIs designed for real-time performance.
