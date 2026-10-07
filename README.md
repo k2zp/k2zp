@@ -19,13 +19,11 @@
 
 </div>
 
----
 
 ## 🚀 About
 
 I architect and build software across the entire stack, with a deep focus on the underlying systems that power the interface. My engineering philosophy centers on clean, high-performance, and resilient code—bridging intuitive frontends with powerful backends, custom game servers, automation, and developer tooling.
 
----
 
 ## 🛠️ Tech Stack
 
