@@ -41,7 +41,7 @@ I architect and build software across the entire stack, with a deep focus on the
 
 - **[Rift Project](https://github.com/k2zp)**
   - Comprehensive Fortnite private server ecosystem featuring a custom backend, frontend web dashboard, dedicated game launcher, game server instance management, and website.
-  - *Stack:* C# · Node.js · React · PHP · C++
+  - *Stack:* C# · C++· Node.js · React.js
 
 - **[Discord NukeBot](https://nukebot.site)**
   - Custom community management bots and automated event-handling APIs designed for real-time performance.
